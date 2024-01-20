@@ -4,7 +4,7 @@ Force rule votes when hosting a game. Set settings in the config file.
 
 To see full rule list, open console in-game with `ctr+alt+~` and type `rules_list_choices`
 
-Server-side and Vanilla-Compatible.
+Server-side and Vanilla-Compatible. Does not work when used as a client.
 
 ## Installation
 
