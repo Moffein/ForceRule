@@ -6,7 +6,6 @@ using System.Collections.Generic;
 using UnityEngine.Networking;
 using System;
 using MonoMod.Cil;
-using static RoR2.UI.CarouselController;
 
 namespace R2API.Utils
 {
