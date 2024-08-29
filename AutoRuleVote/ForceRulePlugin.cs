@@ -17,7 +17,7 @@ namespace R2API.Utils
 
 namespace AutoRuleVote
 {
-    [BepInPlugin("com.Moffein.ForceRule", "ForceRule", "1.0.0")]
+    [BepInPlugin("com.Moffein.ForceRule", "ForceRule", "1.0.1")]
     public class ForceRulePlugin : BaseUnityPlugin
     {
         private static ConfigEntry<string> ruleListString;
